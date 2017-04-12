@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+   <!-- <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        &lt;!&ndash; Customize your theme here. &ndash;&gt;
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>-->
+    <style name="AppTheme" parent="AppTheme.Base"/>
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+   <!-- <style name="AppTheme" parent="android:Theme.Material">
+        &lt;!&ndash;appBar的颜色&ndash;&gt;
+        <item name="android:colorPrimary">#BEBEBE</item>
+        &lt;!&ndash;状态栏的颜色&ndash;&gt;
+        <item name="android:colorPrimaryDark">#FF5AEBFF</item>
+        <item name="android:navigationBarColor">#FFFF4130</item>
+        <item name="android:colorAccent">#BF3EFF</item>
+
+    </style>-->
+</resources>
